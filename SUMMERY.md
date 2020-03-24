@@ -1,6 +1,6 @@
 ‌# Summary​
 
-## Use headings to create page groups like this one​
+## Themen
 
 * [Sprachsteuerung](page1/README.md)    
 
